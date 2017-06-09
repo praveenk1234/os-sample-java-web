@@ -14,6 +14,6 @@ while(rs.next())
 		out.println("col5 ="+rs.getString(5));
 		out.println("col6 ="+rs.getString(6));
 		out.println("col7 ="+rs.getString(7));
-		out.println("-------------------------------------------------------");"
+		out.println("-------------------------------------------------------");
 	}
 %>
